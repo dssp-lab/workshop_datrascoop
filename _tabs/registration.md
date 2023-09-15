@@ -1,6 +1,6 @@
 ---
 icon: fas fa-envelope
-title: registration
+title: Registration
 order: 2
 ---
 
