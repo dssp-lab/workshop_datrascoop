@@ -11,4 +11,4 @@ The registration for the workshop, which includes access to every talk, accommod
 
 [Click here to redirect to the Registration page](https://www.aviationgroup.es/finalizar-compra/?add-to-cart=4969).
 
-The registration page is in spanish. For non-spanish speakers, refer to [this page]({{ site.baseurl }}{% link help_registration.html %}) for a help on how to fill in the details of the registration.
+The registration page is in spanish. For non-spanish speakers, refer to [this page]({{ site.baseurl }}{% link help_registration %}) for a help on how to fill in the details of the registration.
