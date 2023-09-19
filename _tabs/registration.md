@@ -4,7 +4,7 @@ title: Registration
 order: 2
 ---
 
-The registration for the workshop, which includes access to every talk, accommodation, and lunch for the days of the workshop is priced as follows:
+The registration for the workshop, which includes access to every talk, accommodation, and lunch for the days of the workshop, is priced as follows:
 
 - Early registration price (until October 1st): **750€**.
 - Regular registration price (after October 1st): **850€**.
