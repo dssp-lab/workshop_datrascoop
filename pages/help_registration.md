@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Help Registration
+title: Help to fill in the details of the registration page
 permalink: help_registration
 ---
 
