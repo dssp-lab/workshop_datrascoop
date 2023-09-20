@@ -13,8 +13,6 @@ To secure your spot at the workshop, there is a registration fee of:
 - Early registration fee (until October 1st): **750€**.
 - Regular registration fee (after October 1st): **850€**.
 
-This fee covers all workshop materials, sessions, accomodation and any included amenities.
-
 ### How to register
 
 [Click here to redirect to the Registration page](https://www.aviationgroup.es/finalizar-compra/?add-to-cart=4969).
