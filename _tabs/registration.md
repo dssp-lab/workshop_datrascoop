@@ -4,7 +4,7 @@ title: Registration
 order: 2
 ---
 
-Welcome to the registration page for the 1st Workshop on Data and Transportation Science Cooperation for a Sustainable & Socially Responsible Mobility (DATRASCOOP@SESM), which will be held in Malaga, Spain, between the 4th and the 9th of October of 2023. We're thrilled that you're interested in joining us for an exciting and informative workshop experience. Please take a moment to review the details below before completing your registration.
+Welcome to the registration page for the 1st Workshop on Data and Transportation Science Cooperation for a Sustainable & Socially Responsible Mobility (DATRASCOOP@SESM), which will be held in Marbella, Spain, between the 4th and the 9th of October of 2023. We're thrilled that you're interested in joining us for an exciting and informative workshop experience. Please take a moment to review the details below before completing your registration.
 
 ### Registration Fee:
 
@@ -14,7 +14,6 @@ To secure your spot at the workshop, there is a registration fee of:
 - Regular registration fee (after October 1st): **850€**.
 
 This fee covers all workshop materials, sessions, and any included amenities.
-
 
 ### How to register
 
