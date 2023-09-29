@@ -11,7 +11,7 @@ title: Organizers
 |---|
 | Antonio G. Marques<br>King Juan Carlos University |
 | Luis Cadarso<br>King Juan Carlos University |
-| Vikrant Vaze<br>Dartmouth |
+| Vikrant Vaze<br>Dartmouth College |
 
 # Local Arrangements and Website
 
