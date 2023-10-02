@@ -11,7 +11,7 @@ title: Program
 | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 08h45-09h15 | Breakfast                                                                                                                 |
 | 09h30-10h00 | Intro                                                                                                                     |
-| 10h00-11h00 | Operation research models for public transit<br>Speaker: Luis Cadarso                                                    |
+| 10h00-11h00 | Operation Research Models for Public Transit<br>Speaker: Luis Cadarso                                                    |
 | 11h15-12h15 | Combining Optimization and Machine Learning for Integrated Aircraft, Crew and Passenger Recovery<br>Speaker: Vikrant Vaze |
 | 12h30-13h30 | Reinforcement Learning in Transportation Networks<br>Speaker: Sergio Rozada                                               |
 | 13h45-14h45 | Lunch                                                                                                                     |
