@@ -11,7 +11,7 @@ title: Program
 | ----------- | ------------------------------------------------------------------------------------------------------------------------- |
 | 08h45-09h15 | Breakfast                                                                                                                 |
 | 09h30-10h00 | Intro                                                                                                                     |
-| 10h00-11h00 | Operation reserarch models for public transit<br>Speaker: Luis Cadarso                                                    |
+| 10h00-11h00 | Operation research models for public transit<br>Speaker: Luis Cadarso                                                    |
 | 11h15-12h15 | Combining Optimization and Machine Learning for Integrated Aircraft, Crew and Passenger Recovery<br>Speaker: Vikrant Vaze |
 | 12h30-13h30 | Reinforcement Learning in Transportation Networks<br>Speaker: Sergio Rozada                                               |
 | 13h45-14h45 | Lunch                                                                                                                     |
@@ -29,9 +29,9 @@ title: Program
 | 08h45-09h15 | Breakfast                                                                                                                             |
 | 09h30-10h30 | Sparse Optimization for Radar and Tracking<br>Speaker: Geert Leus                                                                     |
 | 10h45-11h15 | Optimal Network Infraestructure Design via Sparsity and Logit-based User Behavior<br>Speaker: Fernando Real                           |
-| 11h15-11h45 | Quick response to network disruptions: A  Sparse Optimization Approach<br>Speaker: Bianca Radu                                        |
+| 11h15-11h45 | Quick response to network disruptions: A Sparse Optimization Approach<br>Speaker: Bianca Radu                                        |
 | 11h45-12h30 | Discussion                                                                                                                            |
-| 12h30-13h30 | Airline Network Planning: Mixed-integer non-convex optimization with demand–supply interactions<br>Speaker: Sebastian Birolini        |
+| 12h30-13h30 | Airline Network Planning: Mixed-Integer Non-Convex Optimization with Demand–Supply Interactions<br>Speaker: Sebastian Birolini        |
 | 13h45-14h45 | Lunch                                                                                                                                 |
 | 15h00-16h00 | A Gentle Introduction to Graph Neural Networks and their Applications in Transportation<br>Speaker: Victor M. Tenorio                 |
 | 16h15-16h45 | Reinforcement Learning Meets Transportation: Graph Attention Networks for Constructing Transportation Models<br>Speaker: Vikrant Vaze |
@@ -44,7 +44,7 @@ title: Program
 | Schedule    | Activity                                                                                                    |
 | ----------- | ----------------------------------------------------------------------------------------------------------- |
 | 08h45-09h15 | Breakfast                                                                                                   |
-| 09h30-10h30 | Day-ahead aircraft routing with data-driven primary delay predictions<br>Speaker: Sebastian Birolini        |
+| 09h30-10h30 | Day-ahead Aircraft Routing with Data-Driven Primary Delay Predictions<br>Speaker: Sebastian Birolini        |
 | 10h30-10h45 | Discussion                                                                                                  |
 | 10h45-11h45 | Energy Storage Systems in Electric Vehicles for Airport Sustainability and Beyond<br>Speaker: Raul de Celis |
 | 11h45-12h00 | Discussion                                                                                                  |
@@ -61,7 +61,7 @@ title: Program
 | Schedule    | Activity                                                                                       |
 | ----------- | ---------------------------------------------------------------------------------------------- |
 | 08h45-09h15 | Breakfast                                                                                      |
-| 09h30-10h00 | Risk management for rapid transit network capacity expansion planning<br>Speaker: Luis Cadarso |
+| 09h30-10h00 | Risk Management for Rapid Transit Network Capacity Expansion Planning<br>Speaker: Luis Cadarso |
 | 10h15-10h45 | Airplane Footprint Estimation: A Machine Learning Approach<br>Speaker: Oscar Escudero          |
 | 11h45-12h30 | Discussion                                                                                     |
 | 12h30-13h00 | Micromobility Network Design<br>Speaker: Vikrant Vaze                                          |
