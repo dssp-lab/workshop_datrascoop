@@ -4,14 +4,14 @@ title: Registration
 order: 2
 ---
 
-Welcome to the registration page for the 1st Workshop on Data and Transportation Science Cooperation (DATRASCOOP), which will be held in Marbella, Spain, between the 4th and the 9th of October of 2023. We're thrilled that you're interested in joining us for an exciting and informative workshop experience. Please take a moment to review the details below before completing your registration.
+Welcome to the registration page for the 2nd Workshop on Data and Transportation Science Cooperation (DATRASCOOP), which will be held in Tenerife, Spain, between the 23rd and the 29th of September of 2024. We're thrilled that you're interested in joining us for an exciting and informative workshop experience. Please take a moment to review the details below before completing your registration.
 
 ### Registration Fee
 
 To secure your spot at the workshop, there is a registration fee of:
 
-- Early registration fee (until October 1st): **750€**.
-- Regular registration fee (after October 1st): **850€**.
+- Early registration fee (until September 1st): **1000€**.
+- Regular registration fee (after September 1st): **1250€**.
 
 ### How to register
 

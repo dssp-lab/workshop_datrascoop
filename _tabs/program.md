@@ -5,6 +5,9 @@ order: 1
 title: Program
 ---
 
+TBD
+
+<!---
 # Day 1 - Thursday, October 5th
 
 | Schedule    | Activity                                                                                                                  |
@@ -70,3 +73,5 @@ title: Program
 | 15h00-18h00 | Discussion                                                                                     |
 | 18h00-19h45 | Free-time                                                                                      |
 | 19h45-22h00 | BBC Dinner                                                                                     |
+
+-->
