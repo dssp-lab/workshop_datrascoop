@@ -15,7 +15,7 @@ To secure your spot at the workshop, there is a registration fee of:
 
 ### How to register
 
-[Click here to redirect to the Registration page](https://www.aviationgroup.es/finalizar-compra/?add-to-cart=4969).
+[Click here to redirect to the Registration page](https://www.aviationgroup.es/finalizar-compra/?add-to-cart=5495).
 
 The registration page is in Spanish. Non-Spanish speakers may refer to [this page](https://dssp-lab.github.io/workshop_datrascoop/help_registration.html) for assistance  in completing their registration.
 
