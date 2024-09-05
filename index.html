@@ -4,6 +4,24 @@ title: Workshop DATRASCOOP
 # Index page
 ---
 
+<style>
+    .image-container {
+        display: flex;
+        align-items: center; /* Alinea verticalmente las imágenes */
+    }
+    .left-images {
+        display: flex;
+        flex-direction: column; /* Las imágenes AEI y ELLIS una sobre otra */
+    }
+    .left-images img {
+        width: 100%; /* Ajusta las imágenes AEI y ELLIS para que mantengan su relación de aspecto */
+        height: auto;
+    }
+    .right-image img {
+        height: 100%; /* Ajusta la altura de la imagen CAM para que coincida */
+    }
+</style>
+
 <p>Welcome to the webpage of the 2nd Workshop on Data and Transportation Science Cooperation (DATRASCOOP), that will be held in Tenerife (Canary Islands, Spain) between the 23rd and the 29th of September of 2024 (with the main workshop taking place between the 24th and 28th of September).</p>
 
 <p>The workshop's objective is to bring together experts from transportation, signal processing, machine learning, and optimization, with the aim of fostering knowledge exchange and identifying innovative collaborative approaches to tackle the most critical challenges encountered by transportation systems.</p>
@@ -23,8 +41,14 @@ title: Workshop DATRASCOOP
     <li>Application of deep learning to the monitoring, control and optimization of transportation systems.</li>
 </ul>
 
-<p>This workshop is partially supported by the Grant TED2021-130347B-I00, funded by MCIN/AEI/ 10.13039/501100011033, the European Union Next Generation EU/PRTR, the ELLIS Madrid unit and the Community of Madrid.</p>
+<p>This workshop is partially supported by the MCIN/AEI/ 10.13039/501100011033 and the European Union Next Generation EU/PRTR (Grant TED2021-130347B-I00), the ELLIS Madrid Unit and the Community of Madrid.</p>
 
-|  |  |
-|-------------|-----|
-| <img src="/assets/AEI.png" alt="AEI"><br><img src="/assets/logo_ellis.png" alt="ELLIS"> | <img src="/assets/logo_cam.png" alt="CAM" width="150"> |
+<div class="image-container">
+    <div class="left-images">
+        <img src="/assets/AEI.png" alt="AEI">
+        <img src="/assets/logo_ellis.png" alt="ELLIS">
+    </div>
+    <div class="right-image">
+        <img src="/assets/logo_cam.png" alt="CAM" width="150">
+    </div>
+</div>
