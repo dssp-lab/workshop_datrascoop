@@ -2,15 +2,20 @@
 layout: page
 title: Program Details
 permalink: program_details
-style: |
-  .page-content {
-    max-width: 100%; /* Make the content take the full width */
-    padding: 0 20px; /* Add some padding if needed */
-  }
-  table {
-    width: 100%; /* Make the tables take full width */
-    word-wrap: break-word; /* Ensure content wraps within table cells */
-  }
+head: |
+  <style>
+    .page-content {
+      max-width: 100% !important;
+      padding: 0 20px;
+    }
+    table {
+      width: 100% !important;
+      word-wrap: break-word;
+    }
+    td, th {
+      word-break: break-word;
+    }
+  </style>
 ---
 
 # Wednesday
