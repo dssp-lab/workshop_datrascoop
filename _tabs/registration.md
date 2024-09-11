@@ -10,8 +10,8 @@ Welcome to the registration page for the 2nd Workshop on Data and Transportation
 
 To secure your spot at the workshop, there is a registration fee of:
 
-- Early registration fee (until September 1st): **1000€**.
-- Regular registration fee (after September 1st): **1250€**.
+- Early registration fee (until September 15th): **1000€**.
+- Regular registration fee (after September 15th): **1250€**.
 
 ### How to register
 
