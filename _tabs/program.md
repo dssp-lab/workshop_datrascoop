@@ -47,7 +47,7 @@ head: |
 | Reinforcement learning for airline revenue management: Adjusting fares in real time <br>Speaker: Sergio Rozada | 12h50/13h20  |
 | Lunch                                                                                                     | 13h30/14h50  |
 | Bayesian optimization for blind resource management in dynamic Internet of Vehicles <br>Speaker: Georgios B. Giannakis | 15h00/16h00  |
-| Generalized carrier phase ambiguity resolution for precise attitude estimation using neural networks and GNSS sensors <br>Speaker: Raúl de Celis | 16h10/17h10  |
+| Generalized carrier phase ambiguity resolution for precise attitude estimation using NNs and GNSS sensors <br>Speaker: Raúl de Celis | 16h10/17h10  |
 | Social activities                                                                                         | 18h15/-  |
 
 # Friday
@@ -59,7 +59,7 @@ head: |
 | Tail assignment-driven aircraft routing problem <br>Speaker: Rubén Jiménez                                       | 10h40/11h10  |
 | Break                                                                                                          | 11h10/11h40  |
 | Combined Joule-Humphrey-recuperator cycle: Optimizing for enhanced energy efficiency in air transportation <br>Speakers: Jorge Saavedra & Luis Cadarso | 11h40/12h40  |
-| Learning to reduce railway traffic management problems: Improving performance of train rescheduling for large-scale railway networks using data-driven problem reduction algorithms <br>Speaker: Sebastian Sehmisch | 12h50/13h20  |
+| Learning to reduce railway traffic management problems: Improving train rescheduling for large-scale networks using data-driven problem reduction algorithms <br>Speaker: Sebastian Sehmisch | 12h50/13h20  |
 | Lunch                                                                                                          | 13h30/14h50  |
 | A new approach for transportation network design: Integrating modal competition with convex optimization <br>Speaker: Fernando Real-Rojas | 15h00/16h00  |
 | Integrated schedule planning for regional airlines using column generation <br>Speaker: Vikrant Vaze            | 16h10/17h10  |
