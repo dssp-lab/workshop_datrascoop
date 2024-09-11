@@ -22,7 +22,7 @@ head: |
 
 | Title                                                                                                    | Time         |
 |----------------------------------------------------------------------------------------------------------|--------------|
-| Breakfast                                                                                               | 08h45/09h25  |
+| Breakfast                                                                                               | 08h55/09h25  |
 | Intro                                                                                                   | 09h30/09h35  |
 | Operation research models and machine learning in transportation <br>Speaker: Luis Cadarso               | 09h40/10h40  |
 | Learning graphs and applications to transportation <br>Speaker: Andrei Buciulea                          | 10h50/11h50  |
@@ -77,7 +77,7 @@ head: |
 | Title                                                                                                     | Time         |
 |-----------------------------------------------------------------------------------------------------------|--------------|
 | Breakfast                                                                                                  | 08h55/09h25  |
-| Bilevel optimization: An overview and the impact of coupling constraints <br>Speakers: Antonio Garcia Marques & Fernando Real-Rojas | 09h30/10h30  |
+| Bilevel optimization: An overview and the impact of coupling constraints <br>Speakers: Antonio G. Marques & Fernando Real-Rojas | 09h30/10h30  |
 | Network design and line planning: Robust and stochastic approaches for uncertainty management <br>Speaker: Luis Cadarso  | 10h40/11h40  |
 | Break                                                                                                      | 11h10/11h40  |
 | Physics-aware truck and drone delivery logistics planning using optimization and machine learning <br>Speaker: Vikrant Vaze | 12h10/13h10  |
