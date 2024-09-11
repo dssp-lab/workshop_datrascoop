@@ -23,7 +23,7 @@ head: |
 
 | Title                                                                                                    | Time         |
 |----------------------------------------------------------------------------------------------------------|--------------|
-| Breakfast                                                                                               | 08h45/09h25  |
+| Breakfast                                                                                               | 08h55/09h25  |
 | Intro                                                                                                   | 09h30/09h35  |
 | Operation research models and machine learning in transportation <br>Speaker: Luis Cadarso               | 09h40/10h40  |
 | Learning graphs and applications to transportation <br>Speaker: Andrei Buciulea                          | 10h50/11h50  |
@@ -33,7 +33,7 @@ head: |
 | GNNs for optimization and design of wireless networks <br>Speaker: Santiago Segarra                      | 15h00/16h00  |
 | A machine learning approach for air traffic delay prediction: combining GNNs with classical algorithms <br>Speaker: Victor M. Tenorio | 16h10/16h40  |
 | Airplane fuel consumption estimation: A machine learning approach <br>Speaker: Óscar Escudero            | 16h40/17h10  |
-| Social activities                                                                                        | 17h30/-  |
+| Social activities                                                                                        | 20h00/-  |
 
 # Thursday
 
