@@ -1,4 +1,4 @@
-# DATRASCOOP Workwhop
+# DATRASCOOP Workshop
 
 This is the repository for the webpage of the 1st Workshop on Data and Transportation Science Cooperation (DATRASCOOP). Details can be found in [https://dssp-lab.github.io/workshop_datrascoop](https://dssp-lab.github.io/workshop_datrascoop).
 
