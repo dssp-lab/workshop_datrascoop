@@ -88,13 +88,3 @@ head: |
 | Lunch                                                                                                      | 13h10/14h10  |
 | Social activities                                                                                          | 14h20/-  |
 
-# Sunday
-
-| Title                                                                                                                   | Time         |
-|--------------------------------------------------------------------------------------------------------------------------|--------------|
-| Breakfast                                                                                                                | 08h55/09h55  |
-| Discussion                                                                                                               | 10h00/12h30  |
-| Closing Remarks                                                                                                          | 12h30/13h20  |
-| Lunch                                                                                                                    | 13h30/14h50  |
-| Organization meetings                                                                                                    | 15h00/18h00  |
-| Social activities                                                                                                        | 18h00/-  |
