@@ -102,15 +102,3 @@ head: |
 | Trip back	                                                                                                 | 20h45/21h30  |
 | Dinner	                                                                                                   | 21h30/23h00  |
 
-# Sunday
-
-| Title                                                                                                                   | Time         |
-|--------------------------------------------------------------------------------------------------------------------------|--------------|
-| Breakfast                                                                                                                | 08h55/09h55  |
-| Discussion                                                                                                               | 10h00/12h30  |
-| Closing remarks                                                                                                          | 12h30/13h20  |
-| Lunch                                                                                                                    | 13h30/14h50  |
-| Organization meetings                                                                                                    | 15h00/18h00  |
-| Free-time                                                                                                                | 18h00/19h45  |
-| BBC Dinner                                                                                                               | 20h45/23h00  |
-| Social drinks                                                                                                            | 23h30/00h30  |
