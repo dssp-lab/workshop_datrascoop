@@ -19,6 +19,17 @@ head: |
   </style>
 ---
 
+# Tuesday
+
+| Title                                                                                                    | Time         |
+|----------------------------------------------------------------------------------------------------------|--------------|
+| Registration desk                                                                                        | 09h30/13h30  |
+| Discussion                                                                                               | 10h00/11h30  |
+| Discussion                                                                                               | 12h00/13h20  |
+| Free time                                                                                                | 13h30/19h30  |
+| Registration desk                                                                                        | 19h00/20h30  |
+| Social activities                                                                                        | 20h00/-      |
+
 # Wednesday
 
 | Title                                                                                                    | Time         |
@@ -74,10 +85,8 @@ head: |
 | Network design and line planning: Robust and stochastic approaches for uncertainty management <br>Speaker: Luis Cadarso  | 10h40/11h40  |
 | Break                                                                                                      | 11h10/11h40  |
 | Physics-aware truck and drone delivery logistics planning using optimization and machine learning <br>Speaker: Vikrant Vaze | 12h10/13h10  |
-| Discussion                                                                                                 | 13h10/13h30  |
-| Lunch                                                                                                      | 13h30/14h50  |
-| Discussion                                                                                                 | 15h00/16h00  |
-| Social activities                                                                                          | 16h10/-  |
+| Lunch                                                                                                      | 13h10/14h10  |
+| Social activities                                                                                          | 14h20/-  |
 
 # Sunday
 
