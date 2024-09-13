@@ -18,6 +18,20 @@ head: |
   </style>
 ---
 
+# Tuesday
+
+| Title                                                                                                    | Time         |
+|----------------------------------------------------------------------------------------------------------|--------------|
+| Registration desk                                                                                        | 09h30/13h30  |
+| Discussion                                                                                               | 10h00/11h30  |
+| Discussion                                                                                               | 12h00/13h20  |
+| Free time                                                                                                | 13h30/19h30  |
+| Registration desk                                                                                        | 19h00/20h30  |
+| Reception: Appetizers	                                                                                   | 20h00/21h00  |
+| Reception: BBQ	                                                                                         | 21h00/23h00  |
+| Reception: Social drinks                                                                               	 | 23h00/00h00  |
+
+
 # Wednesday
 
 | Title                                                                                                    | Time         |
@@ -72,23 +86,21 @@ head: |
 | Dinner La Laguna                                                                                               | 21h30/23h30  |
 | Trip back                                                                                                      | 23h45/00h30  |
 
+
 # Saturday
 
 | Title                                                                                                     | Time         |
 |-----------------------------------------------------------------------------------------------------------|--------------|
 | Breakfast                                                                                                  | 08h55/09h25  |
-| Bilevel optimization: An overview and the impact of coupling constraints <br>Speakers: Antonio G. Marques & Fernando Real-Rojas | 09h30/10h30  |
+| Bilevel optimization: An overview and the impact of coupling constraints <br>Speakers: Antonio Garcia Marques & Fernando Real-Rojas | 09h30/10h30  |
 | Network design and line planning: Robust and stochastic approaches for uncertainty management <br>Speaker: Luis Cadarso  | 10h40/11h40  |
 | Break                                                                                                      | 11h10/11h40  |
 | Physics-aware truck and drone delivery logistics planning using optimization and machine learning <br>Speaker: Vikrant Vaze | 12h10/13h10  |
-| Discussion                                                                                                 | 13h10/13h30  |
-| Lunch                                                                                                      | 13h30/14h50  |
-| Discussion                                                                                                 | 15h00/16h00  |
-| Trip to Teide                                                                                              | 16h10/16h40  |
-| Walk National Park                                                                                         | 16h50/18h50  |
-| Cable Car                                                                                                  | 19h00/20h30  |
-| Trip back                                                                                                  | 20h45/21h15  |
-| Dinner                                                                                                     | 21h30/23h30  |
+| Lunch                                                                                                      | 13h10/14h10  |
+| Trip to Teide	                                                                                             | 14h20/15h00  |
+| Cable car and visit to national park                                                                       |	15h30/20h45 |
+| Trip back	                                                                                                 | 20h45/21h30  |
+| Dinner	                                                                                                   | 21h30/23h00  |
 
 # Sunday
 
