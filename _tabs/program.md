@@ -51,14 +51,14 @@ head: |
 | Title                                                                                                      | Time         |
 |------------------------------------------------------------------------------------------------------------|--------------|
 | Breakfast                                                                                                 | 08h55/09h25  |
-| A gentle introduction to diffusion models <br>Speaker: Sergio Rozada ([slides](/assets/slides/thu/datrascoop_2024_diffusion.pdf))                                       | 09h30/10h30  |
-| Sparse-aware optimization for aircraft recovery​ <br>Speaker: Bianca Radu ([slides](/assets/slides/thu/BiancaRadu-SparsityRecovery.pdf))                                  | 10h40/11h10  |
+| A gentle introduction to diffusion models <br>Speaker: Sergio Rozada ([slides](https://drive.google.com/file/d/1qrxzoZrPEmyP_W4nOi0ZZM_NgB3H_shA/view?usp=drive_link))                                       | 09h30/10h30  |
+| Sparse-aware optimization for aircraft recovery​ <br>Speaker: Bianca Radu ([slides](https://drive.google.com/file/d/1pb18LI12FASjp5IzON2ni_Gl-_aFYyTj/view?usp=drive_link))                                  | 10h40/11h10  |
 | Break                                                                                                     | 11h10/11h40  |
-| Low-rank methods in reinforcement learning <br>Speaker: Antonio G. Marques ([slides](/assets/slides/thu/Low_Rank_Methods_for_Reinforcement_Learning.pdf))                                 | 11h40/12h40  |
-| Reinforcement learning for airline revenue management: Adjusting fares in real time <br>Speaker: Sergio Rozada ([slides](/assets/slides/thu/datrascoop_2024_dynamic_pricing_rl.pdf)) | 12h50/13h20  |
+| Low-rank methods in reinforcement learning <br>Speaker: Antonio G. Marques ([slides](https://drive.google.com/file/d/1K7yaDbBJhaJuLoBSC1dEJ2oHA3Ic2xAm/view?usp=drive_link))                                 | 11h40/12h40  |
+| Reinforcement learning for airline revenue management: Adjusting fares in real time <br>Speaker: Sergio Rozada ([slides](https://drive.google.com/file/d/1ttFbOOt77TRj4Xsbp_xOFkZGMJ6lZ1zV/view?usp=drive_link)) | 12h50/13h20  |
 | Lunch                                                                                                     | 13h30/14h50  |
-| Bayesian optimization for blind resource management in dynamic Internet of Vehicles <br>Speaker: Georgios B. Giannakis ([slides](/assets/slides/thu/tenerife26sept2024Giannakis.pdf)) | 15h00/16h00  |
-| Generalized carrier phase ambiguity resolution for precise attitude estimation using NNs and GNSS sensors <br>Speaker: Raúl de Celis ([slides](/assets/slides/thu/DATRASCOOP.pdf)) | 16h10/17h10  |
+| Bayesian optimization for blind resource management in dynamic Internet of Vehicles <br>Speaker: Georgios B. Giannakis ([slides](https://drive.google.com/file/d/1ya2yz4u2BUnovXXsvvNLrA6p33ZzrtZZ/view?usp=drive_link)) | 15h00/16h00  |
+| Generalized carrier phase ambiguity resolution for precise attitude estimation using NNs and GNSS sensors <br>Speaker: Raúl de Celis ([slides](https://drive.google.com/file/d/1XAlN4B6gHZikGfJAjXv8UG0YAN_6KUyi/view?usp=drive_link)) | 16h10/17h10  |
 | Social activities                                                                                         | 18h15/-  |
 
 # Friday
