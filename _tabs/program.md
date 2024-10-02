@@ -66,14 +66,14 @@ head: |
 | Title                                                                                                         | Time         |
 |-----------------------------------------------------------------------------------------------------------------|--------------|
 | Breakfast                                                                                                      | 08h55/09h25  |
-| Constrained learning and constrained reinforcement learning <br>Speaker: Sergio Rozada ([slides](/assets/slides/fri/datrascoop_2024_constrained.pdf))                          | 09h30/10h30  |
-| Tail assignment-driven aircraft routing problem <br>Speaker: Rubén Jiménez ([slides](/assets/slides/fri/DATASCROOP_2024_ruben.pdf))                                      | 10h40/11h10  |
+| Constrained learning and constrained reinforcement learning <br>Speaker: Sergio Rozada ([slides](https://drive.google.com/file/d/15BmRm2334x1RgUHvLXxZhmwUrZS8CVfU/view?usp=drive_link))                          | 09h30/10h30  |
+| Tail assignment-driven aircraft routing problem <br>Speaker: Rubén Jiménez ([slides](https://drive.google.com/file/d/1vKirQUyJ_-oU-W-uFnvnHD6iCZjgJChh/view?usp=drive_link))                                      | 10h40/11h10  |
 | Break                                                                                                          | 11h10/11h40  |
-| Combined Joule-Humphrey-recuperator cycle: Optimizing for enhanced energy efficiency in air transportation <br>Speakers: Jorge Saavedra & Luis Cadarso ([slides](/assets/slides/fri/DATASCROOP_Saavedra_v7.pdf)) | 11h40/12h40  |
-| Learning to reduce railway traffic management problems: Improving train rescheduling for large-scale networks using data-driven problem reduction algorithms <br>Speaker: Sebastian Sehmisch ([slides](/assets/slides/fri/2024-09-27%20Presentation_DATRASCOOP_Sebastian.pdf)) | 12h50/13h20  |
+| Combined Joule-Humphrey-recuperator cycle: Optimizing for enhanced energy efficiency in air transportation <br>Speakers: Jorge Saavedra & Luis Cadarso ([slides](https://drive.google.com/file/d/1Tb1GI1CbUXF0uJdIxSXv2m4vI_vGAgCG/view?usp=drive_link)) | 11h40/12h40  |
+| Learning to reduce railway traffic management problems: Improving train rescheduling for large-scale networks using data-driven problem reduction algorithms <br>Speaker: Sebastian Sehmisch ([slides](https://drive.google.com/file/d/1XSiKh_Ioh2aELFOYbKCsECoPaTx9Mw34/view?usp=drive_link)) | 12h50/13h20  |
 | Lunch                                                                                                          | 13h30/14h50  |
-| A new approach for transportation network design: Integrating modal competition with convex optimization <br>Speaker: Fernando Real-Rojas ([slides](/assets/slides/fri/FRR_Net_Design_Tenerife.pdf)) | 15h00/16h00  |
-| Integrated schedule planning for regional airlines using column generation <br>Speaker: Vikrant Vaze ([slides](/assets/slides/fri/Regional_Airline_Flight_Scheduling%20Presentation.pdf))           | 16h10/17h10  |
+| A new approach for transportation network design: Integrating modal competition with convex optimization <br>Speaker: Fernando Real-Rojas ([slides](https://drive.google.com/file/d/1DsBlDXx6cS6etASuY6LKiXPvnyxG4tdR/view?usp=drive_link)) | 15h00/16h00  |
+| Integrated schedule planning for regional airlines using column generation <br>Speaker: Vikrant Vaze ([slides](https://drive.google.com/file/d/1oiOiIE2C1VnGWDcyNJTOIPyZ17kQkf7U/view?usp=drive_link))           | 16h10/17h10  |
 | Social activities                                                                                              | 18h15/-  |
 
 # Saturday
@@ -81,10 +81,10 @@ head: |
 | Title                                                                                                     | Time         |
 |-----------------------------------------------------------------------------------------------------------|--------------|
 | Breakfast                                                                                                  | 08h55/09h25  |
-| Bilevel optimization: An overview and the impact of coupling constraints <br>Speakers: Antonio Garcia Marques & Fernando Real-Rojas ([slides](/assets/slides/sat/Tutorial_Bilevel-Constraints.pdf)) | 09h30/10h30  |
-| Network design and line planning: Robust and stochastic approaches for uncertainty management <br>Speaker: Luis Cadarso ([slides](/assets/slides/sat/Luis_2.pdf)) | 10h40/11h40  |
+| Bilevel optimization: An overview and the impact of coupling constraints <br>Speakers: Antonio Garcia Marques & Fernando Real-Rojas ([slides](https://drive.google.com/file/d/1bkqH6-6YfuC6qCHE4YLKQaH4u0PdVepH/view?usp=drive_link)) | 09h30/10h30  |
+| Network design and line planning: Robust and stochastic approaches for uncertainty management <br>Speaker: Luis Cadarso ([slides](https://drive.google.com/file/d/1uOdkIJZcRdbAiD5Ny5VkzzZ8kXvmXMx3/view?usp=drive_link)) | 10h40/11h40  |
 | Break                                                                                                      | 11h10/11h40  |
-| Physics-aware truck and drone delivery logistics planning using optimization and machine learning <br>Speaker: Vikrant Vaze ([slides](/assets/slides/sat/truck_drone_presentation.pdf)) | 12h10/13h10  |
+| Physics-aware truck and drone delivery logistics planning using optimization and machine learning <br>Speaker: Vikrant Vaze ([slides](https://drive.google.com/file/d/1n5SVoa_Pn6xgTsr1DTDfOj-90F5rfQYj/view?usp=drive_link)) | 12h10/13h10  |
 | Lunch                                                                                                      | 13h10/14h10  |
 | Social activities                                                                                          | 14h20/-  |
 
